@@ -16,11 +16,6 @@ Um aplicativo Flutter que implementa funcionalidades de compartilhamento multipl
 ## 🔧 Plataformas Suportadas
 
 - Android 
-- iOS
-- Linux
-- macOS
-- Windows
-- Web
 
 ## 🛠️ Construção e Execução
 
